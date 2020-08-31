@@ -11,7 +11,6 @@ The project intends to predict the accident severity for given road, weather, cl
 The dataset contains 1.92 million records and 34 columns. Data cleaning and preprocessed the data. The data corresponding to slight severity is 84.84%, serious severity is 13.86% and for fatal severity is 1.30%. Several processing techniques as undersampling and oversampling were tried. Our main aim is to predict the serious and fatal severity with high precision and F1 score.
 
 ## Data Source:
-The data collected comes from the U.K. government who amassed traffic data based on police reports. The analysis of data executed here is composed of the U.K. road accidents from 2014 to 2016.
-https://data.gov.uk/dataset/6efe5505-941f-45bf-b576-4c1e09b579a1/road-traffic-accidents
+
 
 
